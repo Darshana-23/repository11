@@ -10,7 +10,7 @@ int main
  
  c=a+b;
  c=a-b;
- 
+ cout<<"The answer :";
  cout<<"Addition :"<<c;
  cout<<"Sub :"<<c;
 }
