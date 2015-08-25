@@ -9,6 +9,8 @@ int main
  cin>>b;
  
  c=a+b;
+ c=a-b;
  
- cout<<"Ans :"<<c;
+ cout<<"Addition :"<<c;
+ cout<<"Sub :"<<c;
 }
